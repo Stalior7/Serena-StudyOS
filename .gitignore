@@ -7,6 +7,7 @@ build/
 .env/
 
 
+
 # Python dependencies
 venv/
 env/
@@ -20,6 +21,9 @@ __pycache__/
 dslfa.db
 chroma_db/
 uploads/
+dslfa_core.md
+implementation_plan\ dslfa
+
 
 # OS generated files
 .DS_Store
