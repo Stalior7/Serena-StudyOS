@@ -1,4 +1,4 @@
-# DSLFA - AI-Powered Study OS
+# SERENA - STUDYOS
 
 DSLFA is an advanced, local AI-powered platform designed for engineering students to transform unstructured study materials into highly interactive learning experiences. Running off local vector databases and large language models, DSLFA ensures utmost privacy and lightning-fast RAG operations.
 
