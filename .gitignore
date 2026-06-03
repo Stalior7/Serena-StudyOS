@@ -32,4 +32,7 @@ Thumbs.db
 # Tool generated files
 .antigravity/
 .antigravitycli/
+.vscode/
+.serena/
+
 
